@@ -26,7 +26,7 @@ The nf-core/mrimorph pipeline comes with documentation about the pipeline, found
 
 ## Credits
 
-The pipeline was originally written by [The Bioinformatics & Biostatistics Group](https://www.crick.ac.uk/research/science-technology-platforms/bioinformatics-and-biostatistics/) for use at [The Francis Crick Institute](https://www.crick.ac.uk/), London.
+The pipeline was originally written by [The Bioinformatics & Biostatistics Group](https://www.crick.ac.uk/research/science-technology-platforms/bioinformatics-and-biostatistics/) in collaboration with [Jonny Kohl](https://www.crick.ac.uk/research/labs/johannes-kohl), [Patty Wai](mailto:patty.wai@crick.ac.uk) and [Bernard Siow](https://www.crick.ac.uk/research/find-a-researcher/bernard-siow) from [The Francis Crick Institute](https://www.crick.ac.uk/), London and [Ma Da](mailto:da_ma@sfu.ca) from [Simon Fraser University](https://www.sfu.ca/), British Columbia, Canada.
 
 The pipeline was developed by [Harshil Patel](mailto:harshil.patel@crick.ac.uk).
 
