@@ -11,7 +11,7 @@
 
 
 def helpMessage() {
-    // TODO nf-core: Add to this help message with new command line parameters
+    // TODO nf-core: Add to this help message with new command line parameters (To-Do)
     log.info nfcoreHeader()
     log.info"""
 
